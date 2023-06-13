@@ -8,6 +8,10 @@ Hello from Justine.
 
 Thomas fixed an important bug that was on this line.
 
+<<<<<<< HEAD
+
+=======
+Hello from Robert.
 
 Hello from Justin.
 
