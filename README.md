@@ -7,3 +7,5 @@ Thomas fixed an important bug that was on this line.
 
 Hello from Robert.
 Hello from Justin.
+
+This is another important bugfix!!
