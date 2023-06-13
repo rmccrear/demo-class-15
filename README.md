@@ -3,3 +3,4 @@
 This is a demo on how to use git as a group.
 
 Hello from Robert.
+Hello from Justin.
